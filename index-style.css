@@ -1,1 +1,31 @@
 /*Here put the code for the index styles*/
+
+body {
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.text-title {
+    color: #050A5C;
+    font-weight: 600;
+}
+
+.txt-050a5c {
+    color: #050A5C;
+}
+
+.back-ffffff {
+    background: #FFFFFF;
+}
+
+.back-050a5c {
+    background: #050A5C;
+}
+
+.radius {
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+
+/* .horizontal-gradient {
+    background: linear-gradient(to right, #FFFFFF, #050A5C);
+} */
