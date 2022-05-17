@@ -98,10 +98,10 @@
     box-shadow: none;
 }
 
-/* .radius {
-    border-top-left-radius: 50%;
-    border-bottom-left-radius: 50%;
-} */
+.radius {
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
 
 html,
 body {
