@@ -1,9 +1,5 @@
 /*Here put the code for the index styles*/
 
-body {
-    font-family: Roboto, Arial, sans-serif;
-}
-
 .text-title {
     color: #050A5C;
     font-weight: 600;
@@ -25,6 +21,52 @@ body {
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
 }
+html,body{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    box-sizing: border-box;
+    margin: 0;
+    overflow-x: hidden;
+    top: 0;
+    left: 0;
+}
+.carousel-inner{
+    height:200px;
+   }
+.detalles{
+ background-color: #000080;
+}
+a{
+    text-decoration: none;
+    color: rgb(34, 54, 69,.7);
+    font-weight: 500;
+}
+a:hover {
+    color: red;
+}
+.navbar{
+    padding: 0rem 2rem;
+    min-height: 12vh;
+}
+ul{
+ list-style-type: none;
+}
+.navbar .navbar-brand a{
+    padding: 1rem 0;
+    display: block;
+    text-decoration: none;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    color: #e74c3c;
+}
+.navbar-toggler{
+ background: black;
+ border: none;
+ padding: 10px 6px;   
+}
+
 
 /* .horizontal-gradient {
     background: linear-gradient(to right, #FFFFFF, #050A5C);
