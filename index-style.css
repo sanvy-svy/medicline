@@ -5,6 +5,10 @@
     font-weight: 600;
 }
 
+.btn-crl-gd {
+    background: linear-gradient(to right, #808080, #ffffff);
+}
+
 .txt-050a5c {
     color: #050A5C;
 }
@@ -158,12 +162,7 @@ ul {
     border: none;
     padding: 10px 6px;
 }
-.cont{
-    padding-left:6%;
+
+.cont {
+    padding-left: 6%;
 }
-
-
-
-/* .horizontal-gradient {
-    background: linear-gradient(to right, #FFFFFF, #050A5C);
-} */
